@@ -7,4 +7,4 @@ spring:
     username: cibpusr
     password: cibpusr
 custom:
-  message: message5
+  message: message6
