@@ -2,9 +2,9 @@ spring:
   application:
     name: cibp-testbus-service
   rabbitmq:
-    host: localhost
-    port: 5672
-    username: guest
-    password: guest
+    host: 192.168.201.22
+    port: 31002
+    username: cibpusr
+    password: cibpusr
 custom:
   message: message5
