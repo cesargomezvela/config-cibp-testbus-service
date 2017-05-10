@@ -12,4 +12,4 @@ spring:
         springCloudBusInput:
           destination: com.evertec.cibp.cloudbus.testbus
 custom:
-  message: message6
+  message: message7
