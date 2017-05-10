@@ -13,4 +13,4 @@ spring:
           destination: com.evertec.cibp.cloudbus.testbus
           group: springCloudBusTestBus
 custom:
-  message: message7
+  message: message8
