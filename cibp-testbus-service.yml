@@ -6,11 +6,11 @@ spring:
     port: 31002
     username: cibpusr
     password: cibpusr
-  cloud:
-    stream:
-      bindings:
-        springCloudBusInput:
-          destination: com.evertec.cibp.cloudbus.testbus
-          group: springCloudBusTestBus
+  #cloud:
+    #stream:
+      #bindings:
+        #springCloudBusInput:
+          #destination: com.evertec.cibp.cloudbus.testbus
+          #group: springCloudBusTestBus
 custom:
   message: message8
