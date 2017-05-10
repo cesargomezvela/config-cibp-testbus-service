@@ -1,0 +1,5 @@
+spring:
+  application:
+    name: cibp-testbus-service
+custom:
+  message: message1
