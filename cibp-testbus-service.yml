@@ -1,16 +1,5 @@
 spring:
   application:
     name: cibp-testbus-service
-  rabbitmq:
-    host: 192.168.201.22
-    port: 31002
-    username: cibpusr
-    password: cibpusr
-  #cloud:
-    #stream:
-      #bindings:
-        #springCloudBusInput:
-          #destination: com.evertec.cibp.cloudbus.testbus
-          #group: springCloudBusTestBus
 custom:
-  message: message9
+  message: message_1
